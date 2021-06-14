@@ -1,0 +1,27 @@
+Instamojo
+Number: 4242 4242 4242 4242
+
+Date: Any valid future date
+
+CVV: 111
+
+Name: abc
+
+3D-secure password: 1221
+
+Paypal
+Card Type: Visa
+
+Card Number: 4863371759537460
+
+Expiration Date: 01/2022
+
+CVV: 937
+
+Razorpay
+Card Type: Visa
+
+Card Number: 4111 1111 1111 1111
+
+Expiration Date: Any future date
+CVV: Random cvv
